@@ -1,0 +1,195 @@
+body {
+	background-color: #ffffff;
+}
+.orangeBorder {
+	border: thin solid #FF6600;
+}
+.blueBorder {
+	border: thin solid #0000FF;
+}
+.blueHead {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 26px;
+	font-weight: bold;
+	color: #0000FF;
+}
+.formText {
+	font-size: 10px;
+	color: red;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.blackMain {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+}
+.button {
+    background-color: #336699;
+    border: none;
+    color: white;
+    padding: 30px 62px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    margin: 7px 4px;
+    cursor: pointer;
+}
+.smallbutton {
+    background-color: #336699;
+    border: none;
+    color: white;
+    padding: 20px 42px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 6px 3px;
+    cursor: pointer;
+}
+.blueButton {
+	background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 20px 42px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 6px 3px;
+    cursor: pointer;
+}
+.orangeButton {
+	background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 20px 42px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 6px 3px;
+    cursor: pointer;
+
+}
+.blackHead {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bolder;
+	color: #000000;
+	text-decoration: underline;
+}
+a:link {
+	color: #000000;
+	text-decoration: none;
+}
+a:visited {
+	color: #000000;
+	text-decoration: none;
+}
+a:hover {
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #336699;
+}
+a:active {
+	font-weight: bolder;
+	color: #0000FF;
+	text-decoration: none;
+	background-color: #336699;
+}
+.blackForm {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #336699;
+	font-style: italic;
+}
+.scroll {
+	font-size: 14px;
+	font-weight: bolder;
+	font-style: italic;
+}
+.blackTop {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #000000;
+}
+.redButton {
+	background-color: #336699;
+    border: none;
+    color: white;
+    padding: 20px 42px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 6px 3px;
+    cursor: pointer;
+}
+.greenMain {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+}
+.redMain {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FF0000;
+}
+.redButton {
+	background-color: #336699;
+    border: none;
+    color: white;
+    padding: 20px 42px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 6px 3px;
+    cursor: pointer;
+}
+.redNote {
+	font-size: 12px;
+	color: #336699;
+	font-weight: bold;
+}
+.blueHost {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #000000;
+}
+.redNote {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+	vertical-align: super;
+	font-weight: bold;
+}
+.blueNote {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+	font-weight: bold;
+}
+.head2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: underline;
+}
+.blackMini {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #000000;
+	font-style: italic;
+}
